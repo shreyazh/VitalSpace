@@ -2,7 +2,7 @@
 
 ## Inspiration
 
-In today's fast-paced world, mental health and overall wellness often take a backseat. We were inspired to create VitalSpace as a comprehensive digital platform that addresses the growing need for accessible, personalized mental health and wellness resources. Our goal was to combine cutting-edge technology with evidence-based practices to provide users with a holistic approach to managing their well-being.
+In today's fast-paced world, mental health and overall wellness often take a backseat. We were inspired to create *VitalSpace* as a comprehensive digital platform that addresses the growing need for accessible, personalized mental health and wellness resources. Our goal was to combine cutting-edge technology with evidence-based practices to provide users with a holistic approach to managing their well-being.
 
 ## What it does
 
