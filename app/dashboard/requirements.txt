@@ -1,0 +1,10 @@
+react
+next.js
+shadcn/ui
+tailwindcss
+chart.js
+d3
+@reduxjs/toolkit
+react-redux
+@apollo/client
+socket.io-client
