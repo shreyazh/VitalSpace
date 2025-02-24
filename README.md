@@ -6,7 +6,7 @@ In today's fast-paced world, mental health and overall wellness often take a bac
 
 ## What it does
 
-VitalSpace is a comprehensive mental health and wellness platform that offers a range of features to support users in their journey towards better health:
+*VitalSpace* is a comprehensive mental health and wellness platform that offers a range of features to support users in their journey towards better health:
 
 1. **Stress Management Tools**: 
    - Personalized stress-reduction plans
